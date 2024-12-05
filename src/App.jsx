@@ -1,5 +1,5 @@
 import Markdown from "marked-react";
-import { useCallback, useEffect, useRef, useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import "./index.css";
 
 export default function App() {
